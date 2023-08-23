@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "885354388578",
+    "project_id": "jhula-934ca",
+    "storage_bucket": "jhula-934ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885354388578:android:3327e3cf80dea21def853b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885354388578-sdaec8kciunh9kubla5biu0k8ru9qtj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSDq5qFGWj_h6JWX3_QezLGckr-F6W3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885354388578-sdaec8kciunh9kubla5biu0k8ru9qtj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885354388578-96voasn6oso1f1365sk1be7mp0bq0nqv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jhula"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885354388578:android:6dd31c4eb1190b61ef853b",
+        "android_client_info": {
+          "package_name": "com.example.jhula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885354388578-sdaec8kciunh9kubla5biu0k8ru9qtj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSDq5qFGWj_h6JWX3_QezLGckr-F6W3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885354388578-sdaec8kciunh9kubla5biu0k8ru9qtj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885354388578-96voasn6oso1f1365sk1be7mp0bq0nqv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jhula"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
